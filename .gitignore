@@ -1,0 +1,12 @@
+.vscode
+debug.log
+scdebug.log
+scripts/**
+/scom
+*.sbatch
+tmp/**
+build/**
+
+/niles
+/demo
+/postgres
